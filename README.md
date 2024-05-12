@@ -1,6 +1,7 @@
 # Word-and-Letter-Counter-and-Robust-Double-Input
 
 **Part 1 (Word and Letter Counter): -**
+
 Objective Provided: Write a program that will read in a line of text and output the number of words 
 in the line and the number of occurrences of each letter. Define a word to be any string of letters that 
 is delimited at each end by either whitespace, a period, a comma, or the beginning or end of the line. 
@@ -23,6 +24,7 @@ a particular alphabet having the same expected index as the alphabet in the stri
 → the final output line can then be printed.
 
 **Part 2 (Robust Double Input): -**
+
 Objective Provided: Give the function definition for the function with the following function 
 declaration. Embed your definition in a suitable test program.  
 void get_double(double* input_number); //Postcondition: input_number is given a value that the user approves of. 
