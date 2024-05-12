@@ -1,6 +1,6 @@
 # Word-and-Letter-Counter-and-Robust-Double-Input
 
-**Part 1 (Word and Letter Counter): - **
+**Part 1 (Word and Letter Counter): -**
 Objective Provided: Write a program that will read in a line of text and output the number of words 
 in the line and the number of occurrences of each letter. Define a word to be any string of letters that 
 is delimited at each end by either whitespace, a period, a comma, or the beginning or end of the line. 
